@@ -1,0 +1,4 @@
+#start_station_name -  станція початкова
+#bike_numbeк- станція початкова
+#duration_time - час поїздки
+#end_station_name - остання станція
